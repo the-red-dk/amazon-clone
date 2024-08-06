@@ -267,6 +267,7 @@
     display: flex;
     flex-direction: row;
     position: relative;
+    gap: 50px;
 }
 
 .footer-holder p {
@@ -312,7 +313,7 @@
 .last-footer {
     margin-top: -1px;
     background-color: rgb(17, 22, 30);
-    height: 60px;
+    height: 80px;
     color: white;
     padding-top: 10px;
     display: flex;  
@@ -321,6 +322,14 @@
     align-items: center;
     font-size: 12px;
     padding-top: 20px;
+}
+.cc {
+    position: relative;
+    bottom: 00px;
+}
+
+.cc p {
+    text-decoration: none;
 }
 
 .last-row {
