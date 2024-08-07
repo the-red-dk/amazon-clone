@@ -79,7 +79,7 @@
     flex: 1;
 }
 
-@media (max-width: 500px)
+/* @media (max-width: 500px)
 {
     .search {
         padding: 10px;
@@ -91,7 +91,7 @@
         width: 634px;
         z-index: 2;
     }
-}
+} */
 .search::placeholder {
     font-size: 16px;
     
